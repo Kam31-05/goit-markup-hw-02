@@ -88,6 +88,7 @@ color: #fff;
     background: #f4f4fd;
 }
 .h2-spec {
+text-transform: capitalize;    
 font-weight: 700;
 font-size: 36px;
 line-height: 1.11;
