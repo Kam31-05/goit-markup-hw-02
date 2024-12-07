@@ -130,6 +130,7 @@ text-align: center;
 color: #fff;
 margin: 0 auto;
 align-items: center;
+max-width: 496px;
 }
 
 .solution-button {   
